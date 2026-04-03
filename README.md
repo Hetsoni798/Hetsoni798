@@ -1,4 +1,4 @@
-[readme-studio-generated (1).md](https://github.com/user-attachments/files/26459853/readme-studio-generated.1.md)## Hi there 👋
+## Hi there 👋
 
 <!--
 **Hetsoni798/Hetsoni798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.[Uplo<div align="center">
